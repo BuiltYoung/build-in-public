@@ -14,7 +14,10 @@ A Claude skill from Built Young that helps any founder or business owner plan, w
 1. Download this repo as a ZIP. GitHub names the folder `build-in-public-main`, so rename it to `build-in-public`; the folder name must match the skill name. Re-zip the folder.
 2. In claude.ai, go to Customize → Skills → + → Create skill → Upload a skill, and upload the ZIP.
 
-## Try it
+## Using it
+New to the skill? Start with the [user manual](USER_MANUAL.md): your first session, what to ask for, sharing levels, and troubleshooting.
+
+Example prompts:
 - "I run a small pottery studio and want to start posting on Instagram. Where do I start?"
 - "Here's what happened this week: [your notes]. Turn it into posts for LinkedIn and X."
 - "We launch on the 3rd of next month. Plan the four weeks before and launch day."
@@ -24,6 +27,7 @@ A Claude skill from Built Young that helps any founder or business owner plan, w
 ## Layout
 | Path | What it holds |
 |---|---|
+| `USER_MANUAL.md` | How to use the skill, for the people who install it |
 | `SKILL.md` | Instructions Claude follows: workflow, writing principles, sharing levels, honesty checks, self-review checklist |
 | `references/onboarding.md` | First-use questions, defaults, and a short explainer for people new to build in public |
 | `references/voice-and-banned-phrases.md` | Matching the founder's voice; banned clichés in English and Chinese |

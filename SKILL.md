@@ -65,7 +65,7 @@ The profile records the level the user chose. If they haven't chosen, use Level 
 | 2 · Some metrics | Level 1 plus users, customers, orders, waitlist, growth %, conversion, ratings | Counts and percentages; no revenue, costs, prices paid, or margins |
 | 3 · Full openness | Level 2 plus revenue, MRR, costs, margins, runway, pricing experiments | Absolute numbers, always with context (what changed and why) |
 
-Level 1 still meets the concrete-detail rule: process numbers and artifacts are specific without exposing the business. If raw notes contain a number above the user's level, keep it out and ask: "You mentioned $4,200 in sales. Keep it private (your level), or share it this once?" People often paste numbers as context, not for publication. How each pillar changes by level is in `content-pillars.md`.
+Level 1 still meets the concrete-detail rule: process numbers and artifacts are specific without exposing the business. If raw notes contain a number above the user's level, keep it out and ask: "You mentioned 4,200 dollars in sales. Keep it private (your level), or share it this once?" People often paste numbers as context, not for publication. How each pillar changes by level is in `content-pillars.md`.
 
 ## Honesty and safety checks
 
